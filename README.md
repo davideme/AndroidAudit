@@ -1,4 +1,4 @@
-[Chinese](./CN)
+[Chinese](AndroidAudit/CN)
 
 **Your Android app as a crime scene!**
 
